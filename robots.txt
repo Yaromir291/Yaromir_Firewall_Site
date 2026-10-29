@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /https://yaromir291.github.io/Yaromir_Firewall_Site/Secret.html
